@@ -1,0 +1,106 @@
+Datascience :
+========================
+
+It is taking or extracting the actionable insights from raw data which helps the firms to maker necessary descisions
+ and policies. this inturn helps in bussiness, research, finding cures and many more. 
+
+
+What is a Data Scientist
+
+=========================
+
+
+Data scientists are big data wranglers, gathering and analyzing large sets of structured and unstructured data.
+ A data scientist’s role combines computer science, statistics, and mathematics. 
+They analyze, process, and model data then interpret the results to create actionable plans for companies and 
+other organizations.
+
+Data scientists are analytical experts who utilize their skills in both technology and social science to 
+find trends and manage data. They use industry knowledge, contextual understanding, skepticism of existing 
+assumptions – to uncover solutions to business challenges.
+
+A data scientist’s work typically involves making sense of messy, unstructured data, 
+from sources such as smart devices, social media feeds, and emails that don’t neatly fit into a database.
+
+
+
+
+report structure:
+======================================
+
+the cover page should include the title of the report, names of authors, their affiliations and contacts,
+ the name of the institutional publisher (if any) and the date of publication.from a business point of view, 
+authors should make it easier for the reader to reach out to them. Having contact details at the front makes 
+the task easier.
+
+A table of contents (ToC)" is like a map needed for a trip never taken before. The ToC with main headings,
+ lists of tables and figures offers a glimpse of what lies ahead in the document.
+definetly include a ToC, especially if your document, excluding cover page, table of contents, and references,
+ is five or more pages in length.
+
+abstract" or an "executive summary". Nothing is more powerful than explaining the crux of your arguments in 
+three paragraphs or less. for larger documents running a few hundred pages, the executive summary could be longer.
+ An "introductory section" is always helpful in setting up the problem for the reader who might be new to the 
+topic and who might need to be gently introduced to the subject matter before being immersed in intricate details. 
+
+
+
+Next section is a ''review '' of available relevant research on the subject matter. The length of the " literature review "
+section depends upon how contested the subject matter is. use the literature review to highlight gaps in the existing 
+knowledge, which your analysis will try 
+to fill. This is where you formally introduce your research questions and hypothesis.
+
+
+In the "methodology" section, you introduce the research methods and data sources you used for the analysis. 
+If you have collected new data, explain the data collection exercise in some detail. 
+
+
+The results section is where you present your empirical findings. Starting with descriptive statistics and 
+illustrative graphics you will move toward formally testing your hypothesis
+
+
+
+
+The next is discussion section, where you craft your main arguments by building on the results you have presented earlier.
+The "discussion section" is where you rely on the power of narrative to enable numbers to communicate your thesis 
+to your readers. You refer the reader to the research question and the knowledge gaps you identified earlier.
+ You highlight how your findings provide the ultimate missing piece to the puzzle.
+
+
+
+In the "conclusion" section, you generalize your specific findings and take on a rather marketing approach to promote 
+your findings so that the reader does not remain stuck....you might also identify future possible developments in research 
+and applications that could result from your research. 
+
+
+The last is including a list of references, the acknowledgment section (acknowledging the support of those who have
+ enabled your work is always good) and "appendices", if needed.
+
+
+
+
+checklist
+-----------------------------------
+
+
+the checklist is useful for budding data scientists and, therefore, I have reproduced it verbatim for their benefit.
+
+Have you told readers, at the outset, what they might gain by reading your paper?
+
+Have you made the aim of your work clear?
+
+Have you explained the significance of your contribution?
+
+Have you set your work in the appropriate context by giving sufficient background (including a complete set of relevant
+ references) to your work?
+
+Have you addressed the question of practicality and usefulness?
+
+Have you identified future developments that might result from your work?
+
+Have you structured your paper in a clear and logical fashion?
+
+
+
+
+https://www.coursera.org/learn/what-is-datascience/peer/dgsjq/final-assignment/review/OwubxgqpEeyOWg44IUhrpQ
